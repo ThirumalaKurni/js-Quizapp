@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+.col-md-7{
+    margin-top: 150px !important;
+    padding:20px !important;
+    background-color: white;
+}
+h1{
+    background-color: black !important;
+    color: white;
+}
+
+label{
+    font-size: medium;
+    font-weight: bold;
+}
+
+li{
+    list-style-type: none;
+}
+input,label{
+    padding:10px;
+}
